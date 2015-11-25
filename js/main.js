@@ -26,7 +26,7 @@ stage.fillRect(320, 760, 166, 300);
 stage.fillStyle = 'red';
 stage.fillRect(655, 760, 166, 300);
 
-// Germany
+// Luxembourg
 stage.fillStyle = 'red'; // position-x - position-y - width - height
 stage.strokeRect(320, 1090, 500, 300);
 stage.fillRect(320, 1090, 500, 100);
